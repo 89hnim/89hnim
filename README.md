@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :maple_leaf: I'm an Android Developer.
+
+- :seedling: Exploring Flutter.
+
+- :blue_heart: Love building software architecture.
+
+- 💬 In my free time, I write some tech articles [here](https://codingwithhnim.wordpress.com/).
